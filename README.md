@@ -5,6 +5,8 @@
 
 Neste desafio foi uma página responsiva com grid e animações para os cards e títulos.
 
+This project was a responsive page with a grid and animations for the cards and titles
+
 ## Layout
 ![screen1](./assets/page-space-cream.png)
 
