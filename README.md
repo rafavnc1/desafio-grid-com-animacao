@@ -1,16 +1,15 @@
 # camp.in 
 [![NPM](https://img.shields.io/npm/l/react)](./LICENSE)
 
-# Sobre o desafio
+# Sobre o projeto / About the project
 
-Neste desafio foi criado um formulario de login responsivo.
+Neste desafio foi uma página responsiva com grid e animações para os cards e títulos.
 
 ## Layout
 ![screen1](./assets/page-space-cream.png)
 
 
-
-# Tecnologias utilizadas
+# Tecnologias utilizadas / Tech stack
 - HTML
 - CSS
 - Figma
